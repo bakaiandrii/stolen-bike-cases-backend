@@ -1,0 +1,1 @@
+module.exports.statusEnum = require('./status.enum');
